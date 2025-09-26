@@ -23,7 +23,7 @@
   * [4.1 Модель данных](Docs/04-database/01-db-model.md)
 * [05-integration](Docs/05-integration/readme.md)
   * [5.1 Интеграция REST](Docs/05-integration/01-restapi.md)
-  * [5.2 Асинхронная интеграция](Docs/05-integration/02-async.md)
+  * [5.2 Асинхронная отправка результата регистрации СЭМД](Docs/05-integration/02-async.md)
   * [5.3 Диаграмма](Docs/05-integration/03-flow.md)
 * [06-data-security](Docs/06-data-security/readme.md)
   * [6.1 Безопасность данных](Docs/06-data-security/01-data-security.md)
