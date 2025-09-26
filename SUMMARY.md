@@ -7,7 +7,7 @@
   * [1.3 Возможности системы](Docs/01-project-overview/03-functionality.md)
   * [1.4 Границы системы](Docs/01-project-overview/04-scope.md)
   * [1.5 Стейкхолдеры](Docs/01-project-overview/05-stakeholders.md)
-  * [1.6 Монитоирнг и логирование](Docs/01-project-overview/06-monitoring.md)
+  * [1.6 Мониторинг и логирование](Docs/01-project-overview/06-monitoring.md)
   * [1.7 Безопасность данных](Docs/01-project-overview/07-data-protection.md)
 * [02-user-stories](Docs/02-user-stories/readme.md)
   * [2.1 Управление документацией](Docs/02-user-stories/01-med-docs.md)
