@@ -20,6 +20,9 @@
 ## 3\. Описание архитектуры
 
 * [3.1 Общая схема](03-architecture/01-overview.md)
+* [3.2 Модули системы ](03-architecture/02-modules.md)
+* [3.3 Сущностная модель](03-architecture/03-entities.md)
+* [3.4 Алгоритмы](03-architecture/04-process.md)
 
 ## 4\. Описание слоя хранения
 
